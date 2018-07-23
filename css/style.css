@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  padding: 30px;
+}
+
+.bootstrap-form form {
+  max-width: 400px;
+  margin: auto;
+  padding: 0;
+}
+.bootstrap-form .form-group input, .bootstrap-form .form-group label, .bootstrap-form .form-group textarea {
+  margin: 10px 0;
+}
